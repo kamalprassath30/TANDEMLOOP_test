@@ -2,5 +2,5 @@
 
 **Coding language used:** python.
 
-Attached 4 files for each problem inside **KamalPrasathT** folder.
+Attached 4 files for each problem inside **Kamal-Prasath-T** folder.
 
